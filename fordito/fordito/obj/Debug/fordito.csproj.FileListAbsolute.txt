@@ -1,0 +1,10 @@
+C:\Users\sandor.norbert\Desktop\fordito\fordito\bin\Debug\fordito.exe.config
+C:\Users\sandor.norbert\Desktop\fordito\fordito\bin\Debug\fordito.exe
+C:\Users\sandor.norbert\Desktop\fordito\fordito\bin\Debug\fordito.pdb
+C:\Users\sandor.norbert\Desktop\fordito\fordito\bin\Debug\Newtonsoft.Json.dll
+C:\Users\sandor.norbert\Desktop\fordito\fordito\bin\Debug\Newtonsoft.Json.xml
+C:\Users\sandor.norbert\Desktop\fordito\fordito\obj\Debug\fordito.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\Desktop\fordito\fordito\obj\Debug\fordito.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\Desktop\fordito\fordito\obj\Debug\fordito.csproj.CopyComplete
+C:\Users\sandor.norbert\Desktop\fordito\fordito\obj\Debug\fordito.exe
+C:\Users\sandor.norbert\Desktop\fordito\fordito\obj\Debug\fordito.pdb
